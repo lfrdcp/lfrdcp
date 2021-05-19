@@ -7,7 +7,7 @@ I love designing, ordering things in certain areas, both in real and digital lif
 - 🔭 I’m currently working on [Boxcode](https://boxcode.com.mx/)
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: alfredocas@boxcode.com.mx
-- 📷 [Instagram](https://www.instagram.com/vidamrr "Instagram account")
+- 📷 [Instagram](https://www.instagram.com/alfredo.caspor/ "Instagram account")
 - 😄 I like the simple, I try to be minimalist
 
 **Languages and Tools:**  
