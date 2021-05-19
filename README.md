@@ -26,7 +26,9 @@ I love designing, ordering things in certain areas, both in real and digital lif
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<a href="https://github.com/lfrdcp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lfrdcp&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfrdcp&layout=compact&theme=vue">
+<a href="https://github.com/lfrdcp/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.lfrdcp.vercel.app/api?username=lfrdcp&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Alfredo's github stats" />
+</a>
+<a href="https://github.com/lfrdcp/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.lfrdcp.vercel.app/api/top-langs/?username=lfrdcp&layout=compact&theme=material-palenight" />
 </a>
