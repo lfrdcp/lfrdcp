@@ -30,7 +30,6 @@ I love designing, ordering things in certain areas, both in real and digital lif
 <a href="https://github.com/lfrdcp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lfrdcp&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=material-palenight">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfrdcp&layout=compact&theme=material-palenight">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lfrdcp">
 </a>
 
 
