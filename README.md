@@ -4,6 +4,7 @@
 
 I love designing, ordering things in certain areas, both in real and digital life, I think that living with a family with a bakery made me what I am today, a passionate software developer, specialized in front end.
 
+- 🌱 My portfolio https://alfredocas-portfolio.vercel.app/ 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: alfredocaspor1997@gmail.com
 - 😄 I like the simple, I try to be minimalist
